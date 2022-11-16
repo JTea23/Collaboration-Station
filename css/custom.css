@@ -537,9 +537,9 @@ header .navbar-collapse.collapse{
 
 .activities-single a.learn-more{
 	display: inline-block;
-	color: #ff5722;
+	color: #60C7CC;
 	font-weight: 600;
-	border-bottom: 1px solid #ff5722;
+	border-bottom: 1px solid #60C7CC;
 }
 
 .activities-single a.learn-more:after{
