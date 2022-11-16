@@ -650,35 +650,35 @@ header .navbar-collapse.collapse{
 }
 
 .course-blue h3{
-	background: #1976d2;
+	background: #8fb460 ;
 }
 
 .course-blue h3:after{
-	background: #1976d2;	
+	background: #8fb460 ;	
 }
 
 .course-blue .course-footer a{
-	background: #1976d2;
+	background: #8fb460 ;
 }
 
 .course-blue .course-footer span{
-	color: #1976d2;
+	color: #8fb460 ;
 }
 
 .course-green h3{
-	background: #a4cf27;
+	background: #6979ae;
 }
 
 .course-green h3:after{
-	background: #a4cf27;	
+	background: #6979ae;	
 }
 
 .course-green .course-footer a{
-	background: #a4cf27;
+	background: #6979ae;
 }
 
 .course-green .course-footer span{
-	color: #a4cf27;
+	color: #6979ae;
 }
 
 /************************************/
