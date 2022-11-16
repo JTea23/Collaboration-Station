@@ -634,7 +634,7 @@ header .navbar-collapse.collapse{
 }
 
 .course-orange h3{
-	background: #ff5722;
+	background: #60c7cc;
 }
 
 .course-orange h3:after{
@@ -642,11 +642,11 @@ header .navbar-collapse.collapse{
 }
 
 .course-orange .course-footer a{
-	background: #ff5722;
+	background: #60c7cc;
 }
 
 .course-orange .course-footer span{
-	color: #ff5722;
+	color: #60c7cc;
 }
 
 .course-blue h3{
