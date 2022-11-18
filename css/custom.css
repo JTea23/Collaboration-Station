@@ -1118,17 +1118,17 @@ header .navbar-collapse.collapse{
 
 .photo-orange:before,
 .photo-orange:after{
-	background: #ff5722;
+	background: #60c7cc;
 }
 
 .photo-blue:before,
 .photo-blue:after{
-	background: #1976d2;
+	background: #6979ae;
 }
 
 .photo-green:before,
 .photo-green:after{
-	background: #a4cf27;
+	background: #8fb460;
 }
 
 /*************************************/
