@@ -1203,8 +1203,8 @@ header .navbar-collapse.collapse{
 	font-family: FontAwesome;
 	width: 40px;
 	height: 40px;
-	background: #ff5722;
-	box-shadow: 0 0 0 6px rgba(255,87,34,0.5);
+	background: #60c7cc ;
+	box-shadow: 0 0 0 6px #EFF9F9;
 	text-align: center;
 	line-height: 40px;
 	font-size: 18px;
@@ -1221,8 +1221,8 @@ header .navbar-collapse.collapse{
 	font-family: FontAwesome;
 	width: 40px;
 	height: 40px;
-	background: #1976d2;
-	box-shadow: 0 0 0 6px rgba(25,118,209,0.5);
+	background: #6979ae;
+	box-shadow: 0 0 0 6px #e6e7f1;
 	text-align: center;
 	line-height: 40px;
 	font-size: 18px;
@@ -1239,8 +1239,8 @@ header .navbar-collapse.collapse{
 	font-family: FontAwesome;
 	width: 40px;
 	height: 40px;
-	background: #a4cf27;
-	box-shadow: 0 0 0 6px rgba(164,207,39,0.5);
+	background:#8fb460;
+	box-shadow: 0 0 0 6px #b4cd94;
 	text-align: center;
 	line-height: 40px;
 	font-size: 18px;
