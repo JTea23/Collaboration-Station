@@ -925,42 +925,42 @@ header .navbar-collapse.collapse{
 }
 
 .event-orange .date{
-	background: #ff5722;
+	background: #60c7cc
 }
 
 .event-orange .event-body h3{
-	color: #ff5722;
+	color: #60c7cc;
 }
 
 .event-orange .event-body p.location:before,
 .event-orange .event-body p.time:before{
-	color: #ff5722;
+	color:#60c7cc;
 }
 
 .event-blue .date{
-	background: #1976d2;
+	background: #6979ae;
 }
 
 .event-blue .event-body h3{
-	color: #1976d2;
+	color: #6979ae;
 }
 
 .event-blue .event-body p.location:before,
 .event-blue .event-body p.time:before{
-	color: #1976d2;
+	color: #6979ae;
 }
 
 .event-green .date{
-	background: #a4cf27;
+	background: #8fb460;
 }
 
 .event-green .event-body h3{
-	color: #a4cf27;
+	color: #8fb460;
 }
 
 .event-green .event-body p.location:before,
 .event-green .event-body p.time:before{
-	color: #a4cf27;
+	color: #8fb460;
 }
 
 .event-pagination{
