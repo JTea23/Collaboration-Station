@@ -369,6 +369,9 @@ header .navbar-collapse.collapse{
 .color-orange{
 	color: #60C7CC;
 }
+.color-teal{
+	color: #60C7CC;
+}
 
 .color-blue{
 	color: #6979ae;
@@ -404,7 +407,7 @@ header .navbar-collapse.collapse{
 }
 
 .btn-slider:hover{
-	background: #ff5722;
+	background: #60C7CC;
 	color: #fff;
 }
 
