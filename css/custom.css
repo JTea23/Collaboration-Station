@@ -569,7 +569,6 @@ header .navbar-collapse.collapse{
 	right: 0;
 	bottom: 0px;
 	height: 16px;
-	background:;
 	transform: rotate(180deg);
 	z-index: 1;
 }
