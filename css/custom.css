@@ -569,7 +569,7 @@ header .navbar-collapse.collapse{
 	right: 0;
 	bottom: 0px;
 	height: 16px;
-	background: url(../images/wave-bg3.png) repeat-x;
+	background:;
 	transform: rotate(180deg);
 	z-index: 1;
 }
